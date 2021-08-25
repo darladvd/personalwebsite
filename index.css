@@ -1,0 +1,71 @@
+h1 {
+	font-family: "Montserrat", sans-serif;
+	color:  #1F4172;
+	font-weight: bold;
+}
+
+p {
+	font-family: "Montserrat", sans-serif;
+	color:  black;	
+}
+
+h2 {
+	font-family: "Montserrat", sans-serif;
+	color:  #1F4172;
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	font-family: "Montserrat", sans-serif;
+	color: #1F4172;
+	list-style: none;
+	padding: 0;
+}
+
+img {
+	height: 250px;
+	width: 450px;
+}
+
+#landing {
+	height:  80vh;
+	display:  flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.jumbotron {
+	background-color: transparent;
+}
+
+#gallery {
+	height: 75vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tools {
+	color: white;
+	padding: 25px;
+	height: 200px;
+	border: 5px solid #1F4172;
+	margin: 20px;
+	width: 75%;
+	border-radius: 4px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.color {
+	background-color: #1F4172;
+}
+
+.gallerybackground {
+	background-color: #FDF0F0;
+}
